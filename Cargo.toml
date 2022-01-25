@@ -1,6 +1,6 @@
 [package]
 name = "scale-info"
-version = "1.1.0"
+version = "1.0.0"
 authors = ["AXIA Technologies <sankar.boro@zeeve.io>"]
 edition = "2021"
 
