@@ -2,7 +2,7 @@
 name = "scale-info-derive"
 version = "1.0.0"
 authors = ["AXIA Technologies <sankar.boro@zeeve.io>", "Centrality Developers <support@centrality.ai>"]
-edition = "2021"
+edition = "2018"
 
 license = "Apache-2.0"
 repository = "https://github.com/axia-tech/scale-info"

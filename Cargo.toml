@@ -2,7 +2,7 @@
 name = "scale-info"
 version = "1.0.0"
 authors = ["AXIA Technologies <sankar.boro@zeeve.io>"]
-edition = "2021"
+edition = "2018"
 
 license = "Apache-2.0"
 readme = "README.md"
